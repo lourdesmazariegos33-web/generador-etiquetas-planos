@@ -1,0 +1,22 @@
+[theme]
+base = "light"
+primaryColor = "#1260CC"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EDF3FA"
+textColor = "#16263C"
+font = "sans serif"
+baseFontSize = 16
+headingFontSizes = ["1.75rem", "1.2rem", "1rem"]
+headingFontWeights = [600, 600, 600]
+baseRadius = "0.5rem"
+buttonRadius = "0.5rem"
+borderColor = "#D5DFEB"
+showWidgetBorder = true
+paddingTop = "2rem"
+paddingBottom = "2rem"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
